@@ -1,6 +1,3 @@
-PRQ1: https://66864bbe6ae16a9473f7af5f--nimble-cobbler-203737.netlify.app/
-
-PRQ2: https://66864c0442fbf18fa8f4e8c6--jolly-paletas-c2b5e0.netlify.app/
 
 EXQ1: https://66864c3a378d1492e65198f7--subtle-croquembouche-721af2.netlify.app/
 
